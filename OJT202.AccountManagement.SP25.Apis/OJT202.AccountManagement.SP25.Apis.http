@@ -1,0 +1,6 @@
+@OJT202.AccountManagement.SP25.Apis_HostAddress = http://localhost:5263
+
+GET {{OJT202.AccountManagement.SP25.Apis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

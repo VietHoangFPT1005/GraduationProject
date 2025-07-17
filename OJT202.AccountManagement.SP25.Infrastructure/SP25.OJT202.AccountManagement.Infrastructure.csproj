@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
+    <ProjectReference Include="..\OJT202.AccountManagement.SP25.Domains\SP25.OJT202.AccountManagement.Domain.csproj" />
   </ItemGroup>
 
 </Project>
