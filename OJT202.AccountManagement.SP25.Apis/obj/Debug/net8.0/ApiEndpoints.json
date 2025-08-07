@@ -1,0 +1,300 @@
+[
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "GetAccounts",
+    "RelativePath": "api/accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "GetAccountsConfiguration",
+    "RelativePath": "api/accounts/configuration",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fromSalary",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "toSalary",
+        "Type": "System.Nullable\u00601[[System.Double, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "sortBy",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "DeleteAccountByEmail",
+    "RelativePath": "api/accounts/delete/by-email/{email}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "DeleteAccountById",
+    "RelativePath": "api/accounts/delete/by-id/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "GetAccountsByRole",
+    "RelativePath": "api/accounts/role/{role}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "GetAccountByEmail",
+    "RelativePath": "api/accounts/search/by-email/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "SearchAccountById",
+    "RelativePath": "api/accounts/search/by-id/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "GetStudentAccounts",
+    "RelativePath": "api/accounts/students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/accounts/teachers/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "SP25.OJT202.AccountManagement.Domain.Entities.Teacher",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountController",
+    "Method": "UpdateAccount",
+    "RelativePath": "api/accounts/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "SP25.OJT202.AccountManagement.Domain.Entities.UserModification",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountSecurityController",
+    "Method": "SignInAsync",
+    "RelativePath": "api/authentication/login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "SP25.OJT202.AccountManagement.Domain.Entities.AccountLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountSecurityController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/authentication/ResetPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountSecurityController",
+    "Method": "SendOTPAsync",
+    "RelativePath": "api/authentication/SendOTP",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountSecurityController",
+    "Method": "SignUpStudentAsync",
+    "RelativePath": "api/authentication/students/sign-up",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "SP25.OJT202.AccountManagement.Domain.Entities.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SP25.OJT202.AccountManagement.Presentation.Controllers.AccountSecurityController",
+    "Method": "VerifyOTPAsync",
+    "RelativePath": "api/authentication/VerifyOTP",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "otp",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MyController",
+    "Method": "GetData",
+    "RelativePath": "api/My/get-data",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

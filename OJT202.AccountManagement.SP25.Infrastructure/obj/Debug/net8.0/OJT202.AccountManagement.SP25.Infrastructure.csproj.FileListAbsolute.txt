@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.deps.json
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.pdb
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.pdb
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.A.BC8C529E.Up2Date
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\refint\OJT202.AccountManagement.SP25.Infrastructure.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Infrastructure.pdb
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Infrastructure\obj\Debug\net8.0\ref\OJT202.AccountManagement.SP25.Infrastructure.dll

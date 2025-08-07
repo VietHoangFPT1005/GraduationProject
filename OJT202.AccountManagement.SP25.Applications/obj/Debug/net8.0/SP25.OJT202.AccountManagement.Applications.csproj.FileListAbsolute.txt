@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Applications\obj\Debug\net8.0\SP25.OJT202.AccountManagement.Applications.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Applications\obj\Debug\net8.0\SP25.OJT202.AccountManagement.Applications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Applications\obj\Debug\net8.0\SP25.OJT202.AccountManagement.Applications.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Applications\obj\Debug\net8.0\SP25.OJT202.AccountManagement.Applications.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Applications\obj\Debug\net8.0\SP25.OJT202.AccountManagement.Applications.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.deps.json
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.runtimeconfig.json
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\bin\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.pdb
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\refint\OJT202.AccountManagement.SP25.Domains.dll
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.pdb
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\OJT202.AccountManagement.SP25.Domains.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\OJT202.AccountManagement.SP25\OJT202.AccountManagement.SP25.Domains\obj\Debug\net8.0\ref\OJT202.AccountManagement.SP25.Domains.dll
