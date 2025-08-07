@@ -37,6 +37,7 @@ namespace SP25.OJT202.AccountManagement.Application
             _configuration = configuration;
             _roleManager = roleManager;
             _smtpSetting = smtpSetting.CurrentValue;
+        
         }
 
         #region SignUp

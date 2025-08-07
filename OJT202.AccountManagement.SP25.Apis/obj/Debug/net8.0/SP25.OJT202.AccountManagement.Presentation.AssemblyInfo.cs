@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SP25.OJT202.AccountManagement.Presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f14c39140679f04ba08f7e5dfefe94744d2495b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8a860c93434fbc62947e1a4a35f4b5d44806554")]
 [assembly: System.Reflection.AssemblyProductAttribute("SP25.OJT202.AccountManagement.Presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SP25.OJT202.AccountManagement.Presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
